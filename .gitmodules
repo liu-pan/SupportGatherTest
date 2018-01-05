@@ -1,0 +1,3 @@
+[submodule "MusicTest"]
+	path = MusicTest
+	url = https://github.com/liu-pan/MusicTest.git
